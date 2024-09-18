@@ -1,0 +1,3 @@
+SELECT MAX(AGE) FROM users;
+
+SELECT MIN(AGE) FROM users;

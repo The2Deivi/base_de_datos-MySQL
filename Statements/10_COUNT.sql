@@ -1,0 +1,3 @@
+SELECT COUNT(*) FROM users;
+
+SELECT COUNT(AGE) FROM users;
